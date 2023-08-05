@@ -76,6 +76,9 @@ Click [here.](https://www.dropbox.com/s/ohlujejf7q5fjgg/Final%20Build_Git.rar?dl
 **LIMITATIONS** <br>
 Arabic Language File is not Converting <br>
 For other Languages need to test. <br>
+Accuracy:90% <br>
+Math Formulae are not Converting in this build <br>
+
 
 **CONCLUSION** <br>
 This is a Open Source Project So Please feel free to contribute this project if you guys have free time. One of the major helping hand in this project is ChatGPT3.5. Since it helped alot for me when I got Stuck. So Kudos for ChatGPT ;) <br>
