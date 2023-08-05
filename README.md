@@ -57,7 +57,7 @@ A STANDALONE EXE AND IT'S SOURCE CODE FOR OPENING FOR CONVERTING PDF2DOCX FORMAT
 
 **INTRODUCTION** <br>
 I started this project as a fun little distraction and was able to complete it successfully. Since most of the online PDF2WORD converting software requires paid membership to convert multiple PDF documents or Converting from PDF to Word using OCR. <br> 
-So to overcome this, I have devloped Little guy right here will get it done without any fuss. <br>
+So to overcome this, I have developed Little guy right here will get it done without any fuss. <br>
 Since This is a Open Source Project as Always the Source Code is available along with the EXE in the Drop Box Link. <br>
 
 **INSTRUCTIONS** <br>
